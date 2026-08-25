@@ -14,7 +14,7 @@ fornecido o façam, sujeito às seguintes condições:
 > [!NOTE]
 > O aviso de direitos autorais acima e este aviso de permissão devem ser incluídos em todas
 as cópias ou partes substanciais do Software.
-
+>
 > O SOFTWARE É FORNECIDO "NO ESTADO EM QUE SE ENCONTRA", SEM GARANTIA DE QUALQUER TIPO, EXPRESSA OU
 IMPLÍCITA, INCLUINDO, MAS NÃO SE LIMITANDO A, GARANTIAS DE COMERCIABILIDADE,
 ADEQUAÇÃO A UMA FINALIDADE ESPECÍFICA E NÃO VIOLAÇÃO. EM NENHUMA HIPÓTESE OS

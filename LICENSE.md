@@ -4,7 +4,7 @@
 
 Copyright (c) 2026 [Kataka Network](https://github.com/KatakaNetwork) e [Tuxifer](https://github.com/Tuxifer)
 
-
+---
 
 É concedida, por meio deste documento, permissão gratuita a qualquer pessoa que obtenha uma cópia
 deste software e dos arquivos de documentação associados (o "Software"), para lidar

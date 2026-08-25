@@ -1,4 +1,6 @@
-Licença MIT
+<div align="center">
+
+# Licença MIT
 
 Copyright (c) 2026 [Kataka Network](https://github.com/KatakaNetwork) e [Tuxifer](https://github.com/Tuxifer)
 

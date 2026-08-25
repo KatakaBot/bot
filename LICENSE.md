@@ -1,6 +1,5 @@
 <p align="center">
-  <font size="5"><b>Licença MIT</b></font>
-  <br>
+  <h3>Licença MIT</h3>
   Copyright (c) 2026 <a href="https://github.com/KatakaNetwork">Kataka Network</a> e <a href="https://github.com/Tuxifer">Tuxifer</a>
 </p>
 

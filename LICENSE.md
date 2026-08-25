@@ -1,10 +1,8 @@
-<div align="center">
-
-## Licença MIT
-
-Copyright (c) 2026 [Kataka Network](https://github.com/KatakaNetwork) e [Tuxifer](https://github.com/Tuxifer)
-
-</div>
+<p align="center">
+  <b>Licença MIT</b>
+  <br><br>
+  Copyright (c) 2026 <a href="https://github.com/KatakaNetwork">Kataka Network</a> e <a href="https://github.com/Tuxifer">Tuxifer</a>
+</p>
 
 ---
 
@@ -15,7 +13,7 @@ de usar, copiar, modificar, mesclar, publicar, distribuir, sublicenciar e/ou ven
 cópias do Software, e de permitir que as pessoas a quem o Software é
 fornecido o façam, sujeito às seguintes condições:
 
->  O aviso de direitos autorais acima e este aviso de permissão devem ser incluídos em todas
+> O aviso de direitos autorais acima e este aviso de permissão devem ser incluídos em todas
 as cópias ou partes substanciais do Software.
 >
 > O SOFTWARE É FORNECIDO "NO ESTADO EM QUE SE ENCONTRA", SEM GARANTIA DE QUALQUER TIPO, EXPRESSA OU

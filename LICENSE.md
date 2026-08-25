@@ -11,7 +11,6 @@ de usar, copiar, modificar, mesclar, publicar, distribuir, sublicenciar e/ou ven
 cópias do Software, e de permitir que as pessoas a quem o Software é
 fornecido o façam, sujeito às seguintes condições:
 
-> [!NOTE]
 >  O aviso de direitos autorais acima e este aviso de permissão devem ser incluídos em todas
 as cópias ou partes substanciais do Software.
 >

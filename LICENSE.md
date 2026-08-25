@@ -4,6 +4,8 @@
 
 Copyright (c) 2026 [Kataka Network](https://github.com/KatakaNetwork) e [Tuxifer](https://github.com/Tuxifer)
 
+</div>
+
 ---
 
 É concedida, por meio deste documento, permissão gratuita a qualquer pessoa que obtenha uma cópia

@@ -259,6 +259,8 @@ Este projeto é licenciado sob a **MIT License**. Veja o arquivo LICENSE para ma
 
 <div align="center">
 
+--- 
+
 ### ム
 
 </div>

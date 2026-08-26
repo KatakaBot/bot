@@ -251,7 +251,7 @@ R: Sim. No painel `/embed`, use "Importar JSON" para colar um embed no formato c
 
 # Créditos
 
-**Desenvolvimento:** Kataka Network e Tuxifer
+**Desenvolvimento:** <a href="https://github.com/KatakaNetwork">Kataka Network</a> e <a href="https://github.com/Tuxifer">Tuxifer</a>
 
 ## Licença
 

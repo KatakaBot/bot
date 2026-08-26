@@ -27,6 +27,9 @@
 
 ---
 
+> [!NOTE]
+> Os comandos do Kataka são registrados **globalmente**. Após a primeira execução do bot, pode levar até 1 hora para os comandos aparecerem em todos os servidores.
+
 ## Sistema de Tickets
 
 Painel de atendimento completo, configurável direto pelo Discord com `/panel`.
@@ -48,9 +51,13 @@ Painel de atendimento completo, configurável direto pelo Discord com `/panel`.
 | --------- | --------------------------------------------- |
 | `/panel`  | Abre o painel central de configuração de tickets |
 
-> Configuração restrita ao **dono do servidor** ou a membros com permissão de **Administrador**.
+> [!IMPORTANT]
+> Configurar o sistema (`/panel`) é restrito ao **dono do servidor** ou a membros com permissão de **Administrador**. Atender tickets requer apenas os cargos de staff/gerência definidos no painel.
 
 ## Sistema de Moderação
+
+<details>
+<summary>Clique para expandir a lista completa de comandos</summary>
 
 | Comando       | Descrição                              |
 | ------------- | --------------------------------------- |
@@ -74,6 +81,8 @@ Painel de atendimento completo, configurável direto pelo Discord com `/panel`.
 | `/hide`       | Ocultar o canal para membros comuns     |
 | `/show`       | Reexibir o canal para membros comuns    |
 
+</details>
+
 ## Sistema de Boas-Vindas
 
 Configure mensagens automáticas para novos membros.
@@ -90,7 +99,8 @@ Configure mensagens automáticas para novos membros.
 | ----------- | --------------------------------------------- |
 | `/welcome`  | Abre o painel de configuração de boas-vindas |
 
-### Placeholders
+<details>
+<summary>Clique para expandir os placeholders disponíveis</summary>
 
 ```
 {user}
@@ -104,6 +114,8 @@ Configure mensagens automáticas para novos membros.
 {guild.owner}
 {now}
 ```
+
+</details>
 
 ## Sistema de Cargos por Seleção
 
@@ -128,12 +140,8 @@ Crie embeds profissionais diretamente pelo Discord.
 | Recursos                 |
 | ------------------------ |
 | Múltiplos embeds         |
-| Título                   |
-| Descrição                |
-| Cor personalizada        |
-| Thumbnail                |
-| Imagem principal         |
-| Footer                   |
+| Título, descrição e cor personalizada |
+| Thumbnail, imagem e footer |
 | Autor                    |
 | Botões com link          |
 | Importar / exportar JSON |
@@ -187,8 +195,6 @@ CLIENT_ID=ID_DA_APLICACAO
 npm start
 ```
 
-Os comandos são registrados **globalmente**, então podem levar até 1 hora para aparecer em todos os servidores após a primeira execução.
-
 ---
 
 # Permissões Necessárias
@@ -197,7 +203,8 @@ Os comandos são registrados **globalmente**, então podem levar até 1 hora par
 | -------------- | ----------- |
 | Administrador  | Recomendado |
 
-### Ou
+<details>
+<summary>Ou, sem Administrador, conceda estas permissões individualmente</summary>
 
 | Permissão                                     | Necessária |
 | ---------------------------------------------- | ---------- |
@@ -218,7 +225,37 @@ Os comandos são registrados **globalmente**, então podem levar até 1 hora par
 | Usar Comandos de Aplicação                      | ✅ |
 | Mencionar @everyone, @here e Todos os Cargos    | ✅ |
 
+</details>
+
 ---
+
+## Perguntas Frequentes
+
+**P: O bot funciona em vários servidores ao mesmo tempo?**
+
+R: Sim. As configurações de tickets, boas-vindas e advertências são completamente separadas por servidor, identificadas pelo ID de cada guild.
+
+**P: Os dados são perdidos se o bot reiniciar?**
+
+R: Não. Tickets, advertências, painéis de pings e configurações de boas-vindas ficam salvos em disco e persistem entre reinicializações.
+
+**P: Quem pode configurar o bot no meu servidor?**
+
+R: Apenas o dono do servidor ou membros com permissão de Administrador podem usar `/panel`, `/embed`, `/pings`, `/welcome` e `/say`.
+
+**P: Posso importar um embed criado em outro lugar?**
+
+R: Sim. No painel `/embed`, use "Importar JSON" para colar um embed no formato compatível com ferramentas como discohook.org.
+
+---
+
+# Créditos
+
+**Desenvolvimento:** Kataka Network e Tuxifer
+
+## Licença
+
+Este projeto é licenciado sob a **MIT License**. Veja o arquivo LICENSE para mais detalhes.
 
 <div align="center">
 

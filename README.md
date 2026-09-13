@@ -15,13 +15,13 @@
 
 [Adicionar ao Discord](https://discord.com/oauth2/authorize?client_id=1318350075684192340&permissions=1100317059126&integration_type=0&scope=bot)
 •
-[Comandos](https://kataka.freehosting.dev/comandos)
+[Comandos](https://kataka.qd.je/comandos)
 •
-[FAQ](https://kataka.freehosting.dev/faq)
+[FAQ](https://kataka.qd.je/faq)
 •
-[Termos](https://kataka.freehosting.dev/termos)
+[Termos](https://kataka.qd.je/termos)
 •
-[Privacidade](https://kataka.freehosting.dev/privacidade)
+[Privacidade](https://kataka.qd.je/privacidade)
 
 </div>
 
